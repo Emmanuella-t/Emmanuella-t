@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="github_banner.png" alt="Emmanuella Turkson Banner" width="100%">
+</p>
+
 ## 👋 Hi, I'm Emmanuella
 
 I'm a Computer Science student building at the intersection of **Software Engineering, AI/ML, and UX Design**.  

@@ -21,13 +21,21 @@ I love creating systems that are practical, human-centered, and accessible.
 - **TSP Route Planner** - DP, Greedy & Brute Force comparison
 - **Save Our World Website** - nonprofit org empowering young leaders
 
-### 🌱 Currently Learning
-- Reinforcement learning basics
-- Full-stack product design (Next.js + Tailwind)
-- Secure coding + cloud foundations
+### 🛠️ Tech & Tools
+`Python` `Flutter` `Dart` `HTML` `CSS` `JavaScript`  
+`LLMs` `Machine Learning` `CNNs`  
+`Git` `GitHub` `VS Code` `Figma` `Firebase`
+
+### 🎯 Current Focus
+- Building applied-AI tools  
+- Designing people-centered digital experiences  
+- Strengthening systems + algorithms foundations  
 
 ### ✨ What I Enjoy
 Faith, community, mentoring students, design, and building things that help people.
 
 ### 🤝 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/emmanuella-turkson/) 
+
+➤ Made with clarity & purpose
+

@@ -7,14 +7,14 @@ I love creating systems that are practical, human-centered, and accessible.
 💻 Software Engineering Intern @ Dell Technologies (Summer '25)  
 🔬 Machine Learning Research → Catalyst selectivity & chemoinformatics  
 📱 UX + AI Builder → Skincare App, Mental Wellness AI Buddy  
-🌍 Founder, Save Our World — youth empowerment & faith-rooted impact
+🌍 Founder, Save Our World - youth empowerment & faith-rooted impact
 
 ### 🚀 Projects
-- **AI CLI Security Analyzer** — detect command injection + root access risk with LLMs
-- **Catalyst ML Model** — CNN for chemical selectivity prediction
-- **MindMate** — burnout-prevention app with micro-commitments & AI nudging
-- **TSP Route Planner** — DP, Greedy & Brute Force comparison
-- **Save Our World Website** — nonprofit org empowering young leaders
+- **AI CLI Security Analyzer** - detect command injection + root access risk with LLMs
+- **Catalyst ML Model** - CNN for chemical selectivity prediction
+- **MindMate** - burnout-prevention app with micro-commitments & AI nudging
+- **TSP Route Planner** - DP, Greedy & Brute Force comparison
+- **Save Our World Website** - nonprofit org empowering young leaders
 
 ### 🌱 Currently Learning
 - Reinforcement learning basics

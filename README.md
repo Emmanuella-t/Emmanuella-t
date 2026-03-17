@@ -21,9 +21,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## `> Whoami`
+
+<img align="right" alt="Coding" width="340" src="gifreadme.gif"/>
 
 ```yaml
 Name        : Emmanuella Turkson

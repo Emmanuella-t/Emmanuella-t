@@ -162,6 +162,7 @@ Reproducible ML pipeline improving **chemical selectivity prediction accuracy by
 ---
 
 ## `> Experience`
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐

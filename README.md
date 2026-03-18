@@ -29,17 +29,17 @@
 Name        : Emmanuella Turkson
 University  : Philander Smith College, Little Rock AR
 Degree      : B.S. Computer Science  (2023 – 2027)
-Focus       : [ AI/ML, Security, Data Science, UI/UX ]
+Focus       : [SWE, AI/ML, Security, Data Science, UI/UX ]
 Experience  : Dell Technologies · LBNL · CFPB
 Status      : Open to Internships & Research Roles
 ```
 
 <br/>
 
-🔐 &nbsp;Built AI security pipelines @ **Dell Technologies** — cut triage time **40%**  
+🔐 &nbsp;Built AI security pipelines @ **Dell Technologies** - cut triage time **40%**  
 🔬 &nbsp;Boosted model accuracy **15%** via transfer learning @ **Lawrence Berkeley Lab**  
 📊 &nbsp;Selected **1 of 4 nationwide** for policy research @ **CFPB**  
-🏆 &nbsp;**HBCUFI Innovation Pitch — 1st Runner Up**  
+🏆 &nbsp;**HBCUFI Innovation Pitch - 1st Runner Up**  
 🌍 &nbsp;Founder of **Save Our World** nonprofit initiative  
 🎓 &nbsp;President's List · Harvard WeCode · Tapia 2024 Scholar  
 

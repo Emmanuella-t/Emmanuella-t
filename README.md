@@ -259,13 +259,9 @@ Reproducible ML pipeline improving **chemical selectivity prediction accuracy by
 <div align="center">
 
 
-> *"You are never too old to set another goal or to dream a new dream."*
->
-> -**C.S. Lewis**
+ *"You are never too old to set another goal or to dream a new dream."*
 
-
-
-<br/><br/>
+ -**C.S. Lewis**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer&amp;text=Made%20with%20Clarity%20and%20Purpose&amp;fontSize=16&amp;fontColor=ffffff&amp;fontAlignY=65&amp;reversal=true" width="100%"/>
 

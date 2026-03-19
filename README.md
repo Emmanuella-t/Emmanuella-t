@@ -217,7 +217,7 @@ Reproducible ML pipeline improving **chemical selectivity prediction accuracy by
 ![CodePath](https://img.shields.io/badge/CodePath-Member-0ea5e9?style=for-the-badge)
 ![TMCF](https://img.shields.io/badge/TMCF-Thurgood%20Marshall%20College%20Fund-db2777?style=for-the-badge)
 ![Google DSC](https://img.shields.io/badge/Google-Developer%20Student%20Club-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![HBCU First](https://img.shields.io/badge/HBCU%20First-Member-e97c00?style=for-the-badge)
+![RewritingTheCode](https://img.shields.io/badge/RewritingTheCode-Member-e97c00?style=for-the-badge)
 
 </div>
 

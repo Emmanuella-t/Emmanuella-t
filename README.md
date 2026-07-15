@@ -198,7 +198,8 @@ Reproducible ML pipeline improving **chemical selectivity prediction accuracy by
 
 | 🏆 Award | 📋 Details |
 |:---|:---|
-| **HBCUFI Innovation Pitch — 1st Runner Up** | Competed and placed in national HBCU innovation competition |
+| **Synchrony Bank Competition - Winner** | Won an innovation competition sponsored by Synchrony Bank |
+| **HBCUFI Innovation Pitch - 1st Runner Up** | Competed and placed in national HBCU innovation competition |
 | **President's List** | George Taylor Scholarship recipient, academic excellence |
 | **Tapia 2024 Scholar** | Diversity in computing national conference scholar |
 | **Splunk HBCU Academic Scholar** | Recognized for academic excellence in tech |
